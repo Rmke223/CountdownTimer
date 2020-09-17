@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: monospace;
+
+}
+
+h1 {
+color: white;
+background-color: black;
+font-size: 70px;
+}
+
+#timer {
+    font-size: 60px;
+}
+
+table {
+   margin-right: auto;
+   margin-left: auto;
+   font-size: 60px;
+}
+
+table, tr, td {
+    border: 1px solid white;
+    text-align: center;
+    padding: 15px;
+}
